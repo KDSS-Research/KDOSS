@@ -1,0 +1,5 @@
+[inf]
+_inf32 = ./core/_inf32.ini
+_inf33 = ./core/_inf33.ini
+_links = ./core/links.html
+_inf_base = ./core/base.ssb
